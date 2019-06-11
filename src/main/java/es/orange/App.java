@@ -5,7 +5,7 @@ package es.orange;
  *
  */
 
-/** comentario para github **/
+/** comentario para github  de strings **/
 
 public class App {
 	public static void main(String[] args) {
